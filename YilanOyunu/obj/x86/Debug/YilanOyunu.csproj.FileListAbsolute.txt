@@ -1,0 +1,8 @@
+C:\PROJECTS\YilanOyunu\YilanOyunu\obj\x86\Debug\YilanOyunu.Properties.Resources.resources
+C:\PROJECTS\YilanOyunu\YilanOyunu\obj\x86\Debug\YilanOyunu.csproj.GenerateResource.Cache
+C:\PROJECTS\YilanOyunu\YilanOyunu\bin\Debug\YilanOyunu.exe
+C:\PROJECTS\YilanOyunu\YilanOyunu\bin\Debug\YilanOyunu.pdb
+C:\PROJECTS\YilanOyunu\YilanOyunu\obj\x86\Debug\YilanOyunu.exe
+C:\PROJECTS\YilanOyunu\YilanOyunu\obj\x86\Debug\YilanOyunu.pdb
+C:\PROJECTS\YilanOyunu\YilanOyunu\obj\x86\Debug\YilanOyunu.FormAnaForm.resources
+C:\PROJECTS\YilanOyunu\YilanOyunu\obj\x86\Debug\YilanOyunu.csprojResolveAssemblyReference.cache
